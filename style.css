@@ -1,0 +1,40 @@
+/*This is my css style sheet*/
+body {
+	background-color: #FBFAF8;
+}
+
+h1 {
+	color: #587D71;
+	font-family: verdana;
+	text-align: centre;
+}
+
+h2{
+	color: #587D71;
+	font-family: courier;
+}
+p {
+	color: #262626;
+	font-family: helvetica;
+	margin: 25px;
+}
+
+strong{
+	font-family: courier;
+
+}
+
+li {
+	font-family: futura;
+}
+
+address {
+	font-family: akzidenz;
+	margin: 35px;
+}
+
+table, th, td {
+	border: 1px solid #262626;
+	margin: 25px;
+}
+
